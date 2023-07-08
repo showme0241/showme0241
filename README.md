@@ -3,12 +3,14 @@
 <div align = "center">
 
 ### 세상의 다양함을 배우고,
-### 이로운 가치를 만들고 싶은 BEEN 입니다
+
+### 이로운 가치를 만들고 싶은 빈태찬 BEEN 입니다
+
 [프론트엔드 개발 학습중]
 
 <br/>
 
-☑️ __테크 스택__
+☑️ **테크 스택**
 <br/>
 
 <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff"/>
