@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/REACT.JS-000000?style=flat-square&logo=react&logoColor=61dafb"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/nest.js-9b1112?style=flat-square&logo=Nest.js&logoColor=red">
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
